@@ -31,3 +31,8 @@ dist/
 htmlcov/
 .coverage.*
 .pytest_cache/
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
