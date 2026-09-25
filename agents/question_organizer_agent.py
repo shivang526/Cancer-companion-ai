@@ -42,6 +42,7 @@ class QuestionOrganizerAgent:
             "batao",
             "bata do",
             "samjhao",
+            "samjao",
             "puchu",
             "poochu",
             "puchna",
